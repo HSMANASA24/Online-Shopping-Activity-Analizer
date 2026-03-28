@@ -1,4 +1,0 @@
-kafka-python
-pymongo
-fastapi
-uvicorn
